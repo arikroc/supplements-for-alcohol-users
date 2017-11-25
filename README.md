@@ -4,34 +4,32 @@
 
 Supplements for alcoholics and past alcohol abuse, sourced via Reddit and Examine.com
 
-**Brain health**
+**To boost brain health given alcohol's impact**
 
-- Piracetam or Noopept
+- Piracetam or Noopept. Noopept may be preferred. "take 10 – 30 mg, once a day" for 30-50 days after reducing alcohol intake.
 
-**General deficiencies**
+**General deficiencies induced by alcohol use over time**
 
 - B-complex (for first month after reducing alcohol intake)
 
 - Folic acid (for first month after reducing alcohol intake) "When supplementing folate, use up to 400 DFE (400 mcg folate)
 When supplementing folic acid, use up to 400 DFE (200 mcg is taken on an empty stomach, 240 mcg if taken with a meal)"
 
-**Insomnia**
+**If you get Insomnia after reducing alcohol intake**
 
 - Melatonin (0.5mg per night, 30 min before bed)
 
 - (Can add Magneisum if melatonin doesn't help)
 
-**Healing your liver**
+**Strengthening your liver**
 
 - NAC "750 – 1,000 mg, once a day"
 
 - Milk Thistle take 150mg "twice a day, for a total daily dose of 300 mg."
 
-**Reducing cravings**
+**For preventing cravings**
 
-- Agmatine (Highly recommended. Also, don't take at the same time as alcohol)
-
-- Ashwaghanda (optional)
+- Agmatine (Highly recommended. Also, don't take at the same time as alcohol) 250mg once per day.
 
 Reviewed and not highly recommended:
 
@@ -40,11 +38,11 @@ Reviewed and not highly recommended:
 - Ashwaghanda (useful dosage likely too large)
 - Vitamin C
  
-Perhaps
+*Perhaps*
 
 - Vitamin A
 
-Sources:
+**Sources:**
 
 Mechanisms of vitamin deficiencies in alcoholism. - https://www.ncbi.nlm.nih.gov/pubmed/3544907
 
@@ -65,3 +63,5 @@ https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0056671/
 https://academic.oup.com/alcalc/article/40/2/155/148571
 
 https://examine.com/supplements/folic-acid/
+
+https://examine.com/supplements/Agmatine/
