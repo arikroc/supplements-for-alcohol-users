@@ -4,43 +4,45 @@
 
 Supplements for alcoholics and past alcohol abuse, sourced via Reddit and Examine.com
 
-Noopept
+**Brain health**
 
+- Piracetam or Noopept
 
-magnesium?
+**General deficiencies**
 
-b-complex?
+- B-complex (for first month after reducing alcohol intake)
 
-folic acid deficiency possible?
+- Folic acid (for first month after reducing alcohol intake) "When supplementing folate, use up to 400 DFE (400 mcg folate)
+When supplementing folic acid, use up to 400 DFE (200 mcg is taken on an empty stomach, 240 mcg if taken with a meal)"
 
-vitamin c might help with withdrawals?
+**Insomnia**
 
-vitamin A deficiency
+- Melatonin (0.5mg per night, 30 min before bed)
 
-helping people feel good again and show them what it can be like:
+- (Can add Magneisum if melatonin doesn't help)
 
-perhaps emoxypine 
-http://nootropicsdepot.com/emoxypine-125mg-capsules/
-http://photos.imageevent.com/diydefense/awakebrain/MexidolPaper.pdf
-skeptical though
+**Healing your liver**
 
-brain
-piracetam or noopept
+- NAC "750 – 1,000 mg, once a day"
 
-easier to quit:
-Agmatine
-ashwaghanda?
+- Milk Thistle take 150mg "twice a day, for a total daily dose of 300 mg."
 
-insomnia
-magnesium
-melatonin
+**Reducing cravings**
 
-healing liver
-NAC
-"750 – 1,000 mg, once a day"
+- Agmatine (Highly recommended. Also, don't take at the same time as alcohol)
 
-Milk Thistle
-"To supplement milk thistle, take 150 mg of silymarin twice a day, for a total daily dose of 300 mg."
+- Ashwaghanda (optional)
+
+Reviewed and not highly recommended:
+
+- Magnesium
+- Emoxypine (http://photos.imageevent.com/diydefense/awakebrain/MexidolPaper.pdf)
+- Ashwaghanda (useful dosage likely too large)
+- Vitamin C
+ 
+Perhaps
+
+- Vitamin A
 
 Sources:
 
@@ -51,3 +53,15 @@ https://www.reddit.com/r/Nootropics/comments/2i81e1/what_should_i_take_with_alco
 https://www.reddit.com/r/Drugs/comments/2r7nzw/supplements_and_vitamins_to_reduce_alcohol/
 
 https://www.reddit.com/r/Supplements/comments/33uq8t/is_there_anything_i_can_take_before_drinking/
+
+https://www.reddit.com/r/Supplements/comments/349919/a_supplement_stack_for_hangovers/
+
+https://www.reddit.com/r/Nootropics/comments/1pnmp8/smart_drugs_for_recovering_alcoholicsaddicts/
+
+https://examine.com/supplements/ashwagandha/
+
+https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0056671/
+
+https://academic.oup.com/alcalc/article/40/2/155/148571
+
+https://examine.com/supplements/folic-acid/
