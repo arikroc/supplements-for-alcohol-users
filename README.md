@@ -6,7 +6,7 @@ Supplements for alcoholics and past alcohol abuse, sourced via Reddit and Examin
 
 **To boost brain health given alcohol's impact**
 
-- Piracetam or Noopept. Noopept may be preferred. "take 10 – 30 mg, once a day" for 30-50 days after reducing alcohol intake.
+- Piracetam or Noopept. Noopept may be preferred. If noopept "take 10 – 30 mg, once a day" for 30-50 days after reducing alcohol intake.
 
 **General deficiencies induced by alcohol use over time**
 
@@ -25,11 +25,11 @@ When supplementing folic acid, use up to 400 DFE (200 mcg is taken on an empty s
 
 - NAC "750 – 1,000 mg, once a day"
 
-- Milk Thistle take 150mg "twice a day, for a total daily dose of 300 mg."
+- Milk Thistle take 150mg "twice a day, for a total daily dose of 300 mg." Don't take milk thistle before drinking. Take it before sleep if you're sober, otherwise wait until the morning.
 
-**For preventing cravings**
+**For reducing cravings / withdrawal symptoms**
 
-- Agmatine (Highly recommended. Also, don't take at the same time as alcohol) 250mg once per day.
+- Agmatine (Highly recommended. Also, don't take at the same time as alcohol) 250mg once per day. Don't take Agmatine before drinking. Take it before sleep if you're sober, otherwise wait until the morning.
 
 Reviewed and not highly recommended:
 
@@ -65,3 +65,5 @@ https://academic.oup.com/alcalc/article/40/2/155/148571
 https://examine.com/supplements/folic-acid/
 
 https://examine.com/supplements/Agmatine/
+
+See also: [https://examine.com/supplements/alcohol/](https://examine.com/supplements/alcohol/)
