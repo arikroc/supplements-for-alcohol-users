@@ -25,7 +25,7 @@ When supplementing folic acid, use up to 400 DFE (200 mcg is taken on an empty s
 
 - NAC "750 – 1,000 mg, once a day"
 
-- Milk Thistle take 150mg "twice a day, for a total daily dose of 300 mg." Don't take milk thistle before drinking. Take it before sleep if you're sober, otherwise wait until the morning.
+- Milk Thistle take 150mg "twice a day, for a total daily dose of 300 mg." Important: Don't take milk thistle before drinking. Take it before sleep if you're sober, otherwise wait until the morning. 
 
 **For reducing cravings / withdrawal symptoms**
 
