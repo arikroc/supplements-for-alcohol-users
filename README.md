@@ -42,6 +42,10 @@ Reviewed and not highly recommended:
 
 - Vitamin A
 
+*Also seems important but I haven't yet processed*
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292407/ (thanks to a reddit commenter)
+
 **Sources:**
 
 Mechanisms of vitamin deficiencies in alcoholism. - https://www.ncbi.nlm.nih.gov/pubmed/3544907
