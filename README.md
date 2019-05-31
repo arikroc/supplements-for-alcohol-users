@@ -14,6 +14,8 @@ Supplements for alcoholics and past alcohol abuse, sourced via Reddit and Examin
 
 - B-complex (for first month after reducing alcohol intake)
 
+- Thiamine aka Vitamin B1 (for first month after reducing alcohol intake). 100mg 3x/day or 500mg once per day.
+
 - Folic acid (for first month after reducing alcohol intake) "When supplementing folate, use up to 400 DFE (400 mcg folate)
 When supplementing folic acid, use up to 400 DFE (200 mcg is taken on an empty stomach, 240 mcg if taken with a meal)"
 
@@ -65,6 +67,8 @@ https://www.reddit.com/r/Nootropics/comments/1pnmp8/smart_drugs_for_recovering_a
 https://examine.com/supplements/ashwagandha/
 
 https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0056671/
+
+https://rebelem.com/should-you-prescribe-oral-thiamine-for-chronic-alcoholics/
 
 https://academic.oup.com/alcalc/article/40/2/155/148571
 
