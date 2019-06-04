@@ -19,8 +19,6 @@ When supplementing folic acid, use up to 400 DFE (200 mcg is taken on an empty s
 
 - Melatonin (0.5mg per night, 30 min before bed) [1](https://examine.com/supplements/melatonin/)
 
-- (You can add Magneisum if melatonin doesn't help)
-
 **Strengthening your liver**
 
 - NAC "750 – 1,000 mg, once a day" [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728225/), [2](https://examine.com/supplements/n-acetylcysteine/)
