@@ -46,9 +46,9 @@ Reviewed and not highly recommended:
 
 - Vitamin A
 
-*Also seems important but I haven't yet processed*
+*Also seems important but I haven't yet fully processed*
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292407/ (thanks to a reddit commenter)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292407/, see also https://303magazine.com/2013/04/techin-in-a-cure-for-alcoholism/
 
 **Sources:**
 
