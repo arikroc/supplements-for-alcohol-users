@@ -8,7 +8,9 @@ Supplements for alcoholics and past alcohol abuse, sourced via Reddit and Examin
 
 **To boost brain health given alcohol's impact**
 
-- Piracetam or Noopept. Noopept may be preferred. If noopept "take 10 – 30 mg, once a day" for 30-50 days after reducing alcohol intake.
+- Piracetam or Noopept. Noopept may be preferred. If noopept "take 10 – 30 mg, once a day" for 30-50 days after reducing alcohol intake.[^test]
+
+[^test]: test.com
 
 **General deficiencies induced by alcohol use over time**
 
