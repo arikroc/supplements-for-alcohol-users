@@ -1,10 +1,10 @@
 # Supplements for People Who Are Stopping or Significantly Reducing their Alcohol Consumption
 
-## These are to help you feel better, faster.
+These are to help you feel better, faster.
 
-## For men who have consumed more than 14 standard drinks per week for more than 6 weeks in a year, and for women who have consumed more than 7 standard drinks per week for more than 6 weeks in a year.
+For men who have consumed more than 14 standard drinks per week for more than 6 weeks in a year, and for women who have consumed more than 7 standard drinks per week for more than 6 weeks in a year.
 
-Supplements for frequent alcohol users and past frequent alcohol users
+## Supplements for frequent alcohol users and past frequent alcohol users
 
 **General deficiencies induced by alcohol use over time**
 
